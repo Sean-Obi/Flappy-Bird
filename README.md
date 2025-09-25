@@ -4,14 +4,6 @@ A simple clone of the classic **Flappy Bird** game built using **Java Swing and 
 
 ---
 
-## 🎮 Demo
-
-![Flappy Bird Java Screenshot](./screenshot.png)
-
-> A bird, gravity, and some deadly pipes. Press **Space** to fly!
-
----
-
 ## ✨ Features
 
 - Classic Flappy Bird mechanics
